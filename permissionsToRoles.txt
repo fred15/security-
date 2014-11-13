@@ -1,0 +1,5 @@
+R6 w* F3
+R2 w D1
+R1 w D2
+R10 s D2
+R10 w* D2
